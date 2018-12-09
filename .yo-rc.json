@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.test.hw",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "helloworld",
+    "packageName": "com.test.hw",
+    "packageFolder": "com/test/hw",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ODhkY2E1MTgyMjZkMzg1ZTYyNmEwZGUzMzllODRlOTcwZGM4MDQ0NzllMjI0NjBhMmMxNmJhOWI0NzVlYjA2MzQwMDdlMDYzYTYxMDgyNjNmMTcxNWEyN2E4NGZjNWVhNzlmY2E1OWI0NDkxNTAyMTgzNTc2NTUyZTcwYjdiNjI=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "en",
+      "hi"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
